@@ -1,16 +1,17 @@
-## Hi there 👋
+![Coding](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0176df&center=true&vCenter=true&width=940&lines=Hello,+world!;)
 
-<!--
-**Isabella010101/Isabella010101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Olá, sou <a href="https://github.com/Isanatali">Isabella</a>, aluna do <a href="https://github.com/SesiSenaiDA2025/SesiSenaiDA2025"> curso técnico do Senai de Desenvolvimento de sistemas</a></h2>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <h2>🖥️ Histórico e Tecnologias mais utilizadas:</h2>
+
+<br>
+
+<div style="display: inline_block" align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isabella010101&show_icons=true&theme=tokyonight&count_private=true)
+    
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Isabella010101&layout=compact&theme=tokyonight)
+    
+</div>
